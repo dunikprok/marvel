@@ -1,0 +1,49 @@
+@font-face {
+	font-family: lolo;
+	src: url(MinecraftTen-VGORe.ttf);
+}
+
+.box {
+	background: red;
+	height: 400px;
+}
+
+ 
+@font-face {
+	font-family: lolo;
+	src: url(MinecraftTen-VGORe.ttf);
+}
+
+.box2 {
+	background: white;
+	height: 140px;
+	width: 1900px;
+	margin-top: 20px;
+	display: flex;
+}
+
+.text2 {
+	font-family: lolo;
+	font-size: 40px;
+	margin-left: 30px;
+}
+
+.text3 {
+	font-family: lolo;
+	font-size: 10px;
+	margin-left: 30px;
+	margin-top: 20px;
+}
+
+@font-face {
+	font-family: lolo;
+	src: url(MinecraftTen-VGORe);
+}
+
+.box3 {
+	background: white;
+	height: 500px;
+	width: 1900px;
+	margin-top: 20px;
+	display: flex;
+}
